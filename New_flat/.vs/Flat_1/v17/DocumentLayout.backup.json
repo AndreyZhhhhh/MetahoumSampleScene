@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blend_w\\_Projects\\UNITY_MH_PROJECTS\\TEST_FLAT\\UNITY_PROJECT_Flat_1\\Flat_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5D112B-D886-008A-5931-1DEDC5238D7B}|MILANOHOUM.csproj|d:\\blend_w\\_projects\\unity_mh_projects\\test_flat\\unity_project_flat_1\\flat_1\\assets\\milanohoum\\scripts\\vidplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5D112B-D886-008A-5931-1DEDC5238D7B}|MILANOHOUM.csproj|solutionrelative:assets\\milanohoum\\scripts\\vidplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VidPlayer.cs",
+              "DocumentMoniker": "D:\\Blend_w\\_Projects\\UNITY_MH_PROJECTS\\TEST_FLAT\\UNITY_PROJECT_Flat_1\\Flat_1\\Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "ToolTip": "D:\\Blend_w\\_Projects\\UNITY_MH_PROJECTS\\TEST_FLAT\\UNITY_PROJECT_Flat_1\\Flat_1\\Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "RelativeToolTip": "Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:24:44.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0A0C4-0B52-7168-24DA-77FF4217BA1B}|Unity.RenderPipelines.Universal.Runtime.csproj|d:\\blend_w\\_projects\\unity_showroom\\_unity_spatial\\milanohoum\\milanohoum\\library\\packagecache\\com.unity.render-pipelines.universal@12.1.10\\runtime\\universaladditionalcameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0A0C4-0B52-7168-24DA-77FF4217BA1B}|Unity.RenderPipelines.Universal.Runtime.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@12.1.10\\runtime\\universaladditionalcameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3388CC7D-8CAD-9ACF-3307-75D6FEB79C7C}|SpatialSys.UnitySDK.Editor.csproj|d:\\blend_w\\_projects\\unity_showroom\\_unity_spatial\\milanohoum\\milanohoum\\library\\packagecache\\io.spatial.unitysdk@1.49.0\\editor\\scripts\\configs\\spaceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3388CC7D-8CAD-9ACF-3307-75D6FEB79C7C}|SpatialSys.UnitySDK.Editor.csproj|solutionrelative:library\\packagecache\\io.spatial.unitysdk@1.49.0\\editor\\scripts\\configs\\spaceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9595D56-E089-5A19-6E67-8A82444F9C28}|MILANOHOUM.csproj|d:\\blend_w\\_projects\\unity_showroom\\_unity_spatial\\milanohoum\\milanohoum\\assets\\milanohoum\\scripts\\vidplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9595D56-E089-5A19-6E67-8A82444F9C28}|MILANOHOUM.csproj|solutionrelative:assets\\milanohoum\\scripts\\vidplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversalAdditionalCameraData.cs",
+              "DocumentMoniker": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalAdditionalCameraData.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalAdditionalCameraData.cs",
+              "ToolTip": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalAdditionalCameraData.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalAdditionalCameraData.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAUwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:28:49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceConfig.cs",
+              "DocumentMoniker": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Library\\PackageCache\\io.spatial.unitysdk@1.49.0\\Editor\\Scripts\\Configs\\SpaceConfig.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.49.0\\Editor\\Scripts\\Configs\\SpaceConfig.cs",
+              "ToolTip": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Library\\PackageCache\\io.spatial.unitysdk@1.49.0\\Editor\\Scripts\\Configs\\SpaceConfig.cs",
+              "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.49.0\\Editor\\Scripts\\Configs\\SpaceConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:24:39.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VidPlayer.cs",
+              "DocumentMoniker": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "ToolTip": "D:\\Blend_w\\_Projects\\UNITY_SHOWROOM\\_UNITY_spatial\\MILANOHOUM\\MILANOHOUM\\Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "RelativeToolTip": "Assets\\MilanoHoum\\Scripts\\VidPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:07:28.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
